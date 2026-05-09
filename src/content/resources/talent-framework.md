@@ -1,12 +1,17 @@
 ---
 title: "The Top Talent at a Discount Framework"
-previewDescription: "How to hire A-players without A-player salaries — the 5-step hiring conversation framework used to build a 40-person team before raising."
-type: "guide"
-pages: 5
+headline: "Get the 5-Step Framework"
+subtitle: "Drop your email and I'll send you the full hiring conversation guide — including the exact language to use at every stage."
 pdfUrl: "https://drive.google.com/file/d/1R8qTamvitWc2yoj359oge8E0130DM8bJ/view?usp=drivesdk"
-ctaLabel: "Get the Free Guide"
-formHeadline: "Get the 5-Step Framework"
-formSubheadline: "Drop your email and I'll send you the full hiring conversation guide — including the exact language to use at every stage."
+valueProps:
+  - "Why 'only take the best' is a funding strategy, not just a hiring philosophy"
+  - "The 60-second 'clickbait' opener that gets top talent to lean in immediately"
+  - "The exact sequence: Vision → Role → Comp (and why order matters)"
+  - "Word-for-word framing for the comp conversation — including how to handle 'I can get more elsewhere'"
+ctaText: "Get the Free Guide"
+previewDescription: "How to hire A-players without A-player salaries — the 5-step hiring conversation framework used to build a 40-person team before raising."
+pages: 5
+type: "guide"
 ---
 
 I built a $4M game. I have 40 people on my team. Celebrity cofounders. A billionaire investor.
